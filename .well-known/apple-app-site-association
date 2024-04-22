@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "2QU35J8G95.com.dopaminecode.Aladear"
+        ],
+        "components": [
+          {
+            "/": "/au/*",
+            "comment": "Matches any URL with a path that starts with /au/."
+          }
+        ]
+      }
+    ]
+  }
+}
